@@ -1,1 +1,1 @@
-# generateprimes
+generateprimes
